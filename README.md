@@ -23,7 +23,7 @@ Transitioning from static DC to dynamic systems and industrial components.
 ### Advanced: Control Systems & Hardware Integration
 Bridging the gap between the software and the physical world.
 * **Control Theory & PID:** Designing and tuning PID controllers for automated industrial processes (e.g., motor speed control, automated water quality maintenance).
-* **Hardware-in-the-Loop (HIL):** Using MATLAB for serial communication to interface directly with microcontrollers (like Arduino, ESP8266, and ESP32).
+* **Hardware-in-the-Loop (HIL):** Using MATLAB for serial communication to interface directly with microcontrollers.
 * **IoT & Real-Time Data:** Streaming live sensor data (like GPS coordinates, temperature, or motor RPM) into MATLAB for real-time visualization, data logging, and triggering automated responses.
 
 ## Prerequisites
