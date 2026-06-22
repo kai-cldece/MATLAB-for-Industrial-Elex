@@ -1,0 +1,15 @@
+Welcome to the world of MATLAB! MATLAB (short for MATrix LABoratory) is a high-performance programming language specifically designed for technical computing, data analysis, and algorithm development.
+Unlike general-purpose languages like Python or C++, MATLAB was built from the ground up to handle matrix and array mathematics natively. This makes it incredibly powerful for engineers, scientists, and mathematicians.
+Here is a straightforward introduction to its core concepts, followed by a few hands-on exercises to get you started.
+Core Concepts of MATLAB
+Everything is a Matrix: In MATLAB, data is primarily stored in arrays or matrices. Even a single number (a scalar) is treated as a 1x1 matrix.
+The Command Window: This is your interactive console. You can type commands here and hit Enter to see the results immediately.
+Scripts and Functions: For longer sets of instructions, you write your code in the Editor and save it as a .m file (a script). Functions are a specific type of script that accept inputs and return outputs.
+Semicolons hide output: If you end a line of code with a semicolon ;, MATLAB will execute the command but suppress the output from printing in the Command Window. If you omit it, MATLAB prints the result immediately.
+
+These are the following file extensions for MATLAB Projects:
+.m (Script or Function): The standard MATLAB code file. This is where you write your plain-text commands, scripts, and functions.
+.mlx (Live Script): An interactive document that combines MATLAB code with formatted text, equations, and output (like plots and images) all in a single interface.
+.mat (MAT-file): A binary data container used to save variables and data directly from your MATLAB workspace so you can load them later.
+.mlapp (App Designer File): A file that contains both the graphical user interface (GUI) layout and the underlying code for custom MATLAB apps.
+.slx (Simulink Model): If you are using Simulink (MATLAB's block diagram environment), your models will be saved with this extension.
