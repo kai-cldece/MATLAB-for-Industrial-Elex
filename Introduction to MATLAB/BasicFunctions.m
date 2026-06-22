@@ -1,4 +1,3 @@
-
 %Sample Exercises:
 %Here are three sample exercises designed to introduce you to MATLAB's syntax, matrix handling, and famous plotting capabilities.Exercise 1: Variables and Basic MathGoal: Learn how to assign variables and perform basic arithmetic.Task: Calculate the volume of a cylinder with a radius of 5 and a height of 10. The formula is $V = \pi r^2 h$.
 
